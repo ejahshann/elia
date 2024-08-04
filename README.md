@@ -1,2 +1,3 @@
-qe-cloud-team
-Members: Michael , Tal , Elia , Benny , David
+Short Story: The QE Cloud Team
+
+In the vibrant tech landscape of Israel, the QE Cloud Team stands out for their diverse talents and strong camaraderie. Michael, the team lead, spends his free time flying small planes, bringing a unique perspective to his leadership. Tal and Benny, avid runners, often brainstorm during their morning jogs, their dedication evident in both their fitness and work. Elia, the team’s magician, uses his love for magic to inspire creative problem-solving. Meanwhile, David, balancing his studies and work, brings fresh, academic insights to the team. Together, they blend their unique skills to drive innovation and maintain top-notch cloud solutions, all while supporting and inspiring one another.
